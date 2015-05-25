@@ -16,3 +16,6 @@ What is the benefit of having a copy of the last known state of the remote store
 	
 	That you can edit the code without an internet connection
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	
+	I used to collaborate in dropbox, for example. The hardest thing was the changes in the code and to rollback to a certain point in the code
